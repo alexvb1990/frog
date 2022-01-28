@@ -1,0 +1,64 @@
+/*********************************************************************************
+*
+*   SECTION: GRID
+*
+*********************************************************************************/
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+}
+
+html, body {
+  width: 100%;
+  clear: both;
+  letter-spacing: 1px;
+  font: $font__weight--regular $font__size--normal $font__family;
+  line-height: 1.375em;
+  color: $text-color-light;
+
+  @include media-breakpoint-down(sm) {
+    line-height: 1.25em;
+  }
+}
+
+main {
+  &#public {
+    overflow-y: hidden;
+  }
+  &#login {
+    overflow-y: hidden;
+  }
+  &#menu {
+    overflow-y: scroll;
+  }
+  &#admin {
+    overflow-y: scroll;
+  }
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus,
+[contenteditable='true']:focus,
+span,
+mat-icon,
+mat-list-item {
+  outline: none;
+  box-shadow: none;
+}
+
+/*********************************************************************************
+*
+*   SECTION: ADMIN GENERAL DESIGN
+*
+*********************************************************************************/
+
+section {
+  &.section__body {
+    padding: 40px 0;
+  }
+}

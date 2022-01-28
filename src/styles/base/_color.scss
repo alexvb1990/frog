@@ -1,0 +1,69 @@
+/*********************************************************************************
+*   SECTION: COLORS
+*********************************************************************************/
+
+// GENERAL PALLETE
+
+$main-color: #05668D;
+$main-color-lighter: #0790c7;
+$main-color-darker: #023549;
+
+$secondary-color: #DDCA7D;
+$secondary-color-lighter: #E0D198;
+$secondary-color-darker: #DCC35E;
+
+$text-color-light: #0C1821;
+$text-color-dark: #F8F8F8;
+
+$background-color-light: #F8F8F8;
+$background-color-dark: #0C1821;
+
+$error-color: #EE6C4D;
+$error-color-lighter: #EA836A;
+$error-color-darker: #EA532F;
+
+$success-color: #00A779;
+$success-color-lighter: #5FD0AC;
+$success-color-darker: #007557;
+
+$warning-color: #FEAE51;
+$warning-color-lighter: #f6BC77;
+$warning-color-darker: #F89829;
+
+$info-color: #34558B;
+$info-color-lighter: #4673BE;
+$info-color-darker: #22385D;
+
+$color-white: #FFFFFF;
+$color-gray: #939597;
+$overlay: rgba(139, 122, 122, 0.45);
+$overlay-sidenav: rgba(0, 0, 0, 0.05);
+
+// ANGULAR MATERIAL PALETTE (DON'T CHANGE VARIABLE NAMES JUST VALUES)
+
+$am-main-color: $main-color;
+$am-main-color-lighter: $main-color-lighter;
+$am-main-color-darker: $main-color-darker;
+
+$am-secondary-color: $secondary-color;
+$am-secondary-color-lighter: $secondary-color-lighter;
+$am-secondary-color-darker: $secondary-color-darker;
+
+$am-warn-color: $error-color;
+$am-warn-color-lighter: $error-color-lighter;
+$am-warn-color-darker: $error-color-darker;
+
+$am-text-color-light: $text-color-light;
+$am-text-color-dark: $text-color-dark;
+
+$am-background-color-light: $background-color-light;
+$am-background-color-dark: $background-color-dark;
+
+// SWEET ALERT (DON'T CHANGE VARIABLE NAMES JUST VALUES)
+
+$sa-text: $text-color-light;
+$sa-main-color: $main-color;
+$sa-error-color: $error-color;
+$sa-success-color: $success-color;
+$sa-warning-color: $warning-color;
+$sa-overlay: rgba(8, 13, 21, 0.85);

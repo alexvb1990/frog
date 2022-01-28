@@ -1,0 +1,61 @@
+#login {
+  h2 {
+    font-family: $family__headers;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: -0.015em;
+  }
+
+  input {
+    height: 52px;
+    border: 2px solid #000000;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+    border-radius: 0;
+  }
+
+  button {
+    height: 52px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    background: #000000;
+    color: white;
+    border-radius: 6px;
+
+    &.login_button__back {
+      background: none;
+      height: 45px;
+      width: 45px;
+
+      img {
+        object-fit: cover;
+      }
+    }
+  }
+
+  span {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+  }
+
+  a {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 0.04em;
+    color: #C01ADB;
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "brand": "Elisa & Alejandro",
+  "securityCode": {
+    "title": "Elisa & Alejandro",
+    "message": "<b style='font-weight: 500;margin-bottom: -15px;display: block;'>¡Bienvenido!</b><br>Por seguridad decidimos colocar un código de acceso que te debió de haber llegado a tú correo electrónico.",
+    "form": {
+      "code": {
+        "placeholder": "Código de acceso",
+        "error": {
+          "required": "Requieres escribir el código de acceso"
+        }
+      },
+      "button": "Acceder"
+    }
+  },
+  "header": {
+    "navbar": {
+      "ourStory": "Historia",
+      "ourMoments": "Momentos",
+      "rsvp": "Reservación",
+      "schedule": "Itinerario",
+      "music": "Música",
+      "safety": "Seguridad",
+      "accommodation": "Hospedaje"
+    }
+  },
+  "welcome": {
+    "title": "¡Nos vamos a casar!",
+    "date": "14 &middot; 08 &middot; 2021 | Monterrey, Nuevo León"
+  },
+  "story": {
+    "title": "Nuestra historia",
+    "message": "Nos conocimos en la preparatoria, y no fue precisamente amor a primera vista...\n Éramos casi opuestos, yo siempre gritona y fiestera; Alex siempre serio y pensativo. Poco a poco iniciamos a conversar y las palabras cada vez eran más amenas, nos hicimos súper amigos, tanto que para tercer año de preparatoria ya éramos inseparables. \nJusto después de la graduación, decidimos formalizar nuestro noviazgo el <strong>24 de junio del 2009</strong>. Seguíamos por el mismo camino pues decidimos entrar a la misma universidad, la verdad es que esa etapa estuvo increíble, ya que podíamos vernos todos los días, incluso llevabamos clases en común. No faltaba un cafecito en el Starbucks o unos burritos en el 7-Eleven. \nTranscurrió la Universidad y fuimos alcanzando nuestros objetivos y metas con la idea de que en un futuro formaríamos una familia. \nSin prisas y después de tan sólo 11 años de relación, el <strong>3 de octubre del 2020</strong> salimos de la ciudad y en un ambiente lleno de amor y alegría, Alex <strong>popped the question</strong> y yo dije: ¡OBVIO SÍ! \n\n<i>¡Estamos ansiosos por comenzar nuestra vida <strong>juntos</strong>!</i>"
+  },
+  "moments": {
+    "title": "Nuestros momentos",
+    "message": "¡Queremos compartir cada momento y detalle contigo! \nEs por eso que estaremos colocando los enlaces para que puedas recordar con nosotros cada instante de esta aventura que inicia el 14 de agosto del 2021. \nAquí encontrarás imágenes relacionadas a cada evento que realizaremos.",
+    "quotes": {
+      "rocioJB": {
+        "name": "Rocio Jiménez Beltran",
+        "message": "Si eliges el mundo te quedarás sin amor, pero si eliges el amor, con él conquistarás el mundo."
+      },
+      "humbertoVM": {
+        "name": "Humberto Valadez Martínez",
+        "message": "No hay mejor elección que la del corazón, sus motivos son únicos e inexplicables."
+      },
+      "susanaRB": {
+        "name": "Susana Ramsden Brunel",
+        "message": "Les deseo con todo mi corazón que este amor que se tienen perdure para siempre, los quiero mucho."
+      },
+      "jaimeCP": {
+        "name": "Jaime Cárdenas del Prado",
+        "message": "Inician un nuevo camino lleno de proyectos por realizar, con fé y esperanza lograrán trascender y llegar al final con la alegría de haberlo logrado."
+      },
+      "elisaLH": {
+        "name": "Elisa Luna Hurtado",
+        "message": "A mi querida hija y a mi yerno: Por amor uniran sus vidas en matrimonio, les deseo todo lo mejor, que sean muy felices y disfruten su vida juntos."
+      },
+      "carolinaCL": {
+        "name": "Carolina Cárdenas Luna",
+        "message": "Mi deseo para ustedes es que tengan toda la felicidad del mundo que se merecen, hoy y todos los días de su vida. Tambien deseo muchos sobrinos. Los amo."
+      },
+      "jaimeCL": {
+        "name": "Jaime Cárdenas Luna",
+        "message": "Les deseo que todos los años que compartirán estén llenos de alegría, amor y sobrinos."
+      }
+    }
+  },
+  "saveTheDate": {
+    "title": "Inicia la cuenta regresiva",
+    "countDown": {
+      "days": "días",
+      "day": "día",
+      "hours": "horas",
+      "hour": "hora",
+      "minutes": "minutos",
+      "minute": "minuto",
+      "seconds": "segundos",
+      "second": "segundo"
+    }
+  },
+  "rsvp": {
+    "title": "Estamos muy felices de celebrar contigo",
+    "message": "¡Eres muy importante para nuestra celebración! \nAgradeceríamos pudieras confirmarnos si contaremos con tu valiosa presencia. \nTe pedimos nos apoyes colocando el nombre de la persona que aparece en la invitación para poder dar un mejor seguimiento.",
+    "form": {
+      "name": {
+        "title": "Nombre",
+        "placeholder": "Ingresa tu nombre completo.",
+        "error": {
+          "required": "Favor de ingresar tu nombre completo."
+        }
+      },
+      "noGuests": {
+        "title": "Número de invitados",
+        "error": {
+          "required": "Favor de seleccionar el número de invitados."
+        }
+      },
+      "assistance": {
+        "title": "¿Podrás asistir al evento?",
+        "options": {
+          "yes": "Sí",
+          "no": "No"
+        },
+        "error": {
+          "required": "Favor de seleccionar si podras asistir al evento."
+        }
+      },
+      "comments": {
+        "title": "¿Tienes algún comentario o sugerencia?",
+        "placeholder": "Ingresa tus comentarios..."
+      },
+      "button": "Confirmar"
+    }
+  },
+  "schedule": {
+    "title": "Itinerario",
+    "message": "Salón Panorama cuenta con un nivel exclusivo de estacionamiento para nuestros invitados, ubicado en el último nivel de los estacionamientos entre Cinemex y Soriana, ahí se encuentra el acceso principal al salón. Para los invitados que asistirán a la misa, les recordamos que podrán dejar sus vehículos desde su arribo y hasta finalizar el evento, así como para acceder a las diferentes áreas de la plaza a través de los ascensores.",
+    "civil": {
+      "title": "Ceremonia civil (Previa invitación)",
+      "time": "15:30 p.m. a 16:30 p.m."
+    },
+    "church": {
+      "title": "Ceremonia religiosa",
+      "time": "17:00 p.m. a 18:00 p.m."
+    },
+    "event": {
+      "title": "Recepción",
+      "time": "18:00 p.m."
+    },
+    "button": "Ir a Google Maps"
+  },
+  "music": {
+    "title": "La música es la clave",
+    "message": "¿Qué canción no puede faltar en la boda? \nEscribe el nombre del artista y la canción que quisieras bailar con nosotros.",
+    "form": {
+      "artist": {
+        "title": "Artista",
+        "placeholder": "Ingresa el nombre del artista.",
+        "error": {
+          "required": "Favor de ingresar el nombre del artista."
+        }
+      },
+      "songName": {
+        "title": "Nombre de la canción",
+        "placeholder": "Ingresa el nombre de la canción.",
+        "error": {
+          "required": "Favor de ingresar el nombre de la canción."
+        }
+      },
+      "button": "¡DJ, please!"
+    }
+  },
+  "accommodations": {
+    "title": "Alojamiento  \nPara nuestros invitados foráneos...",
+    "message": "Sabemos que vienes de lejos para compartir con nosotros. No te preocupes, ya pensamos en todo, te compartimos las opciones más cercanas a nuestro evento.",
+    "hotel1": {
+      "title": "City Express Plus Monterrey Nuevo Sur",
+      "streetLabel": "Ubicación: ",
+      "street": "Av. Revolución 2703, La Ladrillera, 64830 Monterrey, N.L.",
+      "phoneLabel": "Teléfono: ",
+      "phone": "(81) 2127-9000",
+      "webPage": "https://www.cityexpress.com/plus/hoteles-mexico/nuevo-leon/monterrey/nuevo-sur",
+      "button": "Ir al sitio web"
+    },
+    "hotel2": {
+      "title": "Fiesta Inn Monterrey Tecnológico",
+      "streetLabel": "Ubicación: ",
+      "street": "Av. Eugenio Garza Sada 2411, Roma, 64700 Monterrey, N.L.",
+      "phoneLabel": "Teléfono: ",
+      "phone": "(81) 1877-0200",
+      "webPage": "http://www.fiestainn.com/es/web/fiesta-inn-monterrey-tecnologico",
+      "button": "Ir al sitio web"
+    },
+    "hotel3": {
+      "title": "Holiday Inn Express",
+      "streetLabel": "Ubicación: ",
+      "street": "Ave. Eugenio Garza Sada 3680 sur Colonia, Villa Los Pinos, 64770 Monterrey, N.L.",
+      "phoneLabel": "Teléfono: ",
+      "phone": "(81) 8329-6000",
+      "webPage": "https://www.ihg.com/holidayinnexpress/hotels/us/en/monterrey/mtyeg/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-MX-_-MTYEG",
+      "button": "Ir al sitio web"
+    }
+  },
+  "safety": {
+    "title": "Tu seguridad es primero",
+    "message": "En estos tiempos la salud es lo primero, por eso hemos tomado medidas para cuidar de ustedes:",
+    "bullets": {
+      "option1": "Mesas con ocupación de 8 personas máximo.",
+      "option2": "Sana distancia entre mesas.",
+      "option3": "Gel antibacterial en áreas comunes.",
+      "option4": "Servicio respetando los protocolos sanitarios."
+    }
+  },
+  "footer": {
+    "copyright": "© 2021 Alejandro Valadez Bastien. Todos los derechos reservados. \nEl uso de este sitio constituye la aceptación de nuestro acuerdo de usuario y política de privacidad. El material en este sitio no puede ser reproducido, distribuido, transmitido, almacenado en caché o utilizado de otra manera, excepto con el permiso previo por escrito de Alejandro Valadez Bastien"
+  },
+  "login": {
+    "title": "Bienvenido",
+    "subTitle": "¡Es bueno verte de nuevo! Por favor ingresa tus credenciales para iniciar sesión",
+    "form": {
+      "username": {
+        "label": "Correo electrónico",
+        "placeholder": "Ingresa tu correo electrónico",
+        "error": {
+          "valid": "Dirección de correo inválida",
+          "required": "Dirección de correo electrónico requerida"
+        }
+      },
+      "password": {
+        "label": "Contraseña",
+        "placeholder": "Ingresa tu contraseña",
+        "error": {
+          "required": "Contraseña requerida"
+        }
+      },
+      "button": "Iniciar sesión"
+    }
+  },
+  "admin": {
+    "sideNavbar": {
+      "home": {
+        "displayName": "Inicio"
+      },
+      "users": {
+        "displayName": "Invitados"
+      },
+      "music": {
+        "displayName": "Música"
+      },
+      "confirmations": {
+        "displayName": "Confirmaciones"
+      }
+    }
+  }
+}

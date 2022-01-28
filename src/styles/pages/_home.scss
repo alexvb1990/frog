@@ -1,0 +1,47 @@
+/*********************************************************************************
+*   SECTION: LOGIN
+*********************************************************************************/
+
+#login {
+  h2 {
+    font: $weight__regular 36px/40px $family__headers;
+    letter-spacing: -0.015em;
+  }
+
+  input {
+    height: 52px;
+    border: 2px solid $color-black;
+    font: $weight__regular 15px/18px $family__body;
+    color: $color-black;
+    border-radius: 0;
+  }
+
+  button {
+    font: $weight__black 13px/15px $family__body;
+    height: 52px;
+    letter-spacing: 0.04em;
+    background: $color-black;
+    color: $color-white;
+    border-radius: 6px;
+
+    &.login_button__back {
+      background: none;
+      height: 45px;
+      width: 45px;
+
+      img {
+        object-fit: cover;
+      }
+    }
+  }
+
+  span {
+    font: $weight__regular 13px/15px $family__body;
+  }
+
+  a {
+    font: $weight__black 13px/15px $family__body;
+    letter-spacing: 0.04em;
+    color: $color-magenta;
+  }
+}

@@ -1,0 +1,43 @@
+/*********************************************************************************
+*
+*   SECTION: MIXIN
+*
+*********************************************************************************/
+
+/*********************************************************************************
+*
+*   MIXIN: BROWSER COMPATIBILITY
+*
+*   Use:
+*
+*   @include browserCompatibility(attributeName, value)
+*
+*********************************************************************************/
+
+@mixin browserCompatibility($attributeName, $value) {
+  #{$attributeName}: $value;
+  -webkit-#{$attributeName}: $value;
+  -moz-#{$attributeName}: $value;
+  -o-#{$attributeName}: $value;
+  -khtml-#{$attributeName}: $value;
+  -ms-#{$attributeName}: $value;
+}
+
+/*********************************************************************************
+*
+*   MIXIN: BROWSER ATTRIBUTE VALUE COMPATIBILITY
+*
+*   Use:
+*
+*   @include browserAttributeValueCompatibility(attributeName, value)
+*
+*********************************************************************************/
+
+@mixin browserAttributeValueCompatibility($attributeName, $value) {
+  #{$attributeName}: #{$value};
+  #{$attributeName}: -webkit-#{$value};
+  #{$attributeName}: -moz-#{$value};
+  #{$attributeName}: -o-#{$value};
+  #{$attributeName}: -khtml-#{$value};
+  #{$attributeName}: -ms-#{$value};
+}

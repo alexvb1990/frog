@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+/*********************************************************************************
+*
+*   SECTION: MAIN
+*
+*********************************************************************************/
+
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+@import 'abstracts/functions';
+@import 'abstracts/placeholders';
+
+@import 'base/reset';
+@import 'base/color';
+@import 'base/typography';
+
+@import 'themes/bootstrap';
+@import 'themes/sweetAlert';
+@import 'themes/material-theme';
+@import 'themes/toastr';
+@import 'themes/ag-grid';
+
+@import 'components/anchor';
+
+@import 'layout/grid';
+@import 'layout/navbar';
+@import 'layout/footer';
+@import 'layout/admin/grid';
+
+@import 'pages/login/login';
+@import 'pages/home/welcome';
+@import 'pages/home/story';
+@import 'pages/home/moments';
+@import 'pages/home/save-the-date';
+@import 'pages/home/rsvp';
+@import 'pages/home/music';
+@import 'pages/home/schedule';
+@import 'pages/home/accommodations';
+@import 'pages/home/safety';
+@import 'pages/admin/users/guest/guest-list';
+@import 'pages/admin/users/guest/guest-detail';
+@import 'pages/admin/music';
+@import 'pages/admin/confirmation';
+@import 'src/styles/pages/menu/menu';

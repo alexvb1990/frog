@@ -1,0 +1,67 @@
+/*********************************************************************************
+*   SECTION: FONTS FAMILY
+*********************************************************************************/
+
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+
+$family__body: 'Montserrat', sans-serif;
+$family__headers: 'Open Sans', sans-serif;
+$material-icons: 'Material Icons';
+$font-awesome-icons: 'FontAwesome';
+
+/*********************************************************************************
+*   SECTION: GOLDEN RATIO (Mathematical proportion between the elements of different sizes which is thought to be the most aesthetically pleasing for the human eyes)
+*********************************************************************************/
+
+$gr-fontSize: 1.333;
+$gr-lineHeight: 1.618;
+
+/*********************************************************************************
+*   SECTION: FONT SIZE
+*
+*   10px = 7.5pt = 0.6250em
+*   12px = 9.0pt = 0.7500em
+*   14px = 10.5pt = 0.8750em
+*   16px = 12.0pt = 1.0000em
+*   18px = 13.5pt = 1.1250em
+*   20px = 14.5pt = 1.2500em
+*   22px = 16pt = 1.37500em
+*   24px = 18pt = 1.5000em
+*   26px = 20pt = 1.6250em
+*   28px = 21.5pt = 1.7500em
+*   30px = 23pt = 1.8750em
+*   32px = 24pt = 2.0000em
+*   34px = 25pt = 2.1250em
+*   36px = 27pt = 2.2500em
+*   38px = 29pt = 2.37500em
+*   40px = 30pt = 2.5000em
+*   42px = 32pt = 2.6250em
+*   44px = 33pt = 2.7500em
+*   46px = 35pt = 2.8750em
+*   48px = 36pt = 3.0000em
+*********************************************************************************/
+
+$size__sidebar--header: 12px;
+$size__sidebar--brand: 22px;
+$size__normal: 16px;
+
+$size__h6: calc(#{$size__normal} * #{$gr-fontSize});
+$size__h5: calc(#{$size__h6} * #{$gr-fontSize});
+$size__h4: calc(#{$size__h5} * #{$gr-fontSize});
+$size__h3: calc(#{$size__h4} * #{$gr-fontSize});
+$size__h2: calc(#{$size__h3} * #{$gr-fontSize});
+$size__h1: calc(#{$size__h2} * #{$gr-fontSize});
+
+/*********************************************************************************
+*   SECTION: FONT WEIGHT
+*********************************************************************************/
+
+$weight__thin: 100;
+$weight__light: 300;
+$weight__regular: 400;
+$weight__medium: 500;
+$weight__semiMedium: 600;
+$weight__bold: 700;
+$weight__semiBlack: 800;
+$weight__black: 900;
